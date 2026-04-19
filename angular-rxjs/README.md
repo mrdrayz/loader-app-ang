@@ -51,3 +51,7 @@ npm run dev - Запуск проекта в режиме разработки
 ## Настройка параллельности
 
 Количество одновременно загружаемых изображений можно изменить в файле downloadImage.ts в строке const MAX_CONCURRENT_DOWNLOADS = 3;
+
+## Демо-деплой 
+
+Ссылка: https://image-loader-5cs4.onrender.com
